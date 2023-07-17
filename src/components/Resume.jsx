@@ -2,7 +2,7 @@ import React from "react";
 
 const StickyResumeDownload = () => {
   const handleDownload = () => {
-    const fileUrl = "public/assets/Benjie-Angeles-Resume.pdf";
+    const fileUrl = "assets/Benjie-Angeles-Resume.pdf";
     const link = document.createElement("a");
     link.href = fileUrl;
     link.download = "Benjie-Angeles-Resume.pdf";
