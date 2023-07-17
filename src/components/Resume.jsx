@@ -2,7 +2,7 @@ import React from "react";
 
 const StickyResumeDownload = () => {
   const handleDownload = () => {
-    window.location.href = "public/assets/Benjie Angeles Resume.pdf";
+    window.location.href = "src/images/Benjie Angeles Resume.pdf";
   };
 
   return (
