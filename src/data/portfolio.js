@@ -17,7 +17,7 @@ export default [
     title: "Developer Portfolio",
     imgUrl: "assets/developer.jpg",
     stack: ["React", "Tailwind.css", "Vite"],
-    link: "https://thebenjieangeles.github.io/simple-calculator-with-JS/",
+    link: "https://thebenjieangeles.github.io/portfolio/",
     code: "https://github.com/thebenjieangeles/music-app",
   },
 ];
